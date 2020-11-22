@@ -1,0 +1,666 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .header:after { 
+        left: -229px;
+        transform: rotate(103deg);
+    }
+    .hero-area img.sm-img { 
+        width: 670px;
+    }
+    .hero-styleTwo {
+        margin-bottom: 50px !important;
+    }
+    
+    .owl-carousel.owl-loaded.owl-drag .hero-wrepper.apps { 
+        margin-right: 50px !important;
+    }
+    .herowrepperSlider.owl-carousel.owl-loaded.owl-drag .owl-nav { 
+        right: 60px; 
+    }
+    .hero-area.hero-styleTwo.nostros img.sm-img {
+        width: 545px;
+    }
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .footer-area img.footer-bac { 
+        height: 410px;
+    }
+    .contact-img img {
+        max-width: 480px; 
+        top: 25px;
+        left: -110px;
+    }
+    .contact-area { 
+        padding-bottom: 0;
+    } 
+    .header:after { 
+        width: 290px;
+        height: 205px; 
+        left: -225px;
+        transform: rotate(111deg);
+    }
+    .hero-wrepper {
+        position: relative;
+        top: -60px;
+    }
+    .header-bottom .menu-area nav ul li a { 
+        font-size: 16px; 
+        margin-left: 15px; 
+    }
+    .header-bottom .menu-area {
+        padding-top: 5px; 
+    }
+    .header .header-top .top-text a { 
+        font-size: 16px; 
+    }
+    .hero-wrepper h4 { 
+        font-size: 33px; 
+    }
+    .hero-wrepper h1 { 
+        font-size: 85px;
+    }
+    .hero-wrepper p { 
+        font-size: 22px; 
+    }
+    .major-wrepper h4 {
+        font-size: 31px; 
+    }
+    .section-title h3 {
+        font-size: 32px; 
+    }
+    .footer-menu ul li a { 
+        padding-right: 22px;
+    }
+    .banner-box h4 span {
+        font-size: 16px; 
+    }
+    .hero-wrepper.apps h1 {
+        font-size: 58px;
+    }
+    .hero-wrepper h3 {
+        font-size: 28px; 
+    }
+    .hero-wrepper p {
+        font-size: 18px;
+    }
+    img.sm-img {
+        width: 600px;
+    }
+    .hero-styleTwo {
+        margin-bottom: 50px !important;
+    } 
+    .hero-area img.sm-img {
+        width: 530px !important;
+    }
+    .herowrepperSlider.owl-carousel.owl-loaded.owl-drag .owl-nav { 
+        right: 30px; 
+    }
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .dnoneINxs{
+        display:block !important
+      }
+    .sidBar {
+    display: block !important;
+    margin-right: -280px;
+    transition: .3s;
+} 
+    .noneINmd{
+        display: none !important;
+    }  
+    .header:after { 
+        width: 255px;
+        height: 205px; 
+        left: -197px; 
+    }
+    .hero-wrepper {
+        position: relative;
+        top: -100px;
+    }
+    .hero-area { 
+        overflow: hidden;
+    }
+    .hero-area { 
+        height: 980px; 
+    }
+    a.slide-btn { 
+        left: 31%; 
+    }
+    .major-wrepper {
+        padding-left: 0;
+        padding-top: 50px;
+    }
+    .feture-box { 
+        margin-top: 30px;
+    }
+    .section-title {
+        padding-left: 30px;
+        margin-right: 30px;
+    }
+    .banner-box h4 { 
+        font-size: 18px;  
+        width: 100%; 
+    }
+    .banner-box img { 
+        height: 240px; 
+    }
+    .banner-right .banner-box.right-box img {
+        height: 480px;
+    }
+    .contact-img img {
+        max-width: 90%;
+        position: unset;
+    }
+    .contact-img {
+        margin-top: 50px;
+        text-align: center;
+        justify-content: center;
+    }
+    .footer-area {
+        position: relative;
+        padding-top: 0;
+        overflow: hidden;
+        background: #744bf7;
+    }
+    .footer-area img.footer-bac { 
+        display: none;
+    }
+    .footer-wiget.middle-wiget {
+        padding-left: 20px;
+        padding-bottom: 35px;
+    }
+    .footer-wrepper .footer-wiget p {
+        font-size: 17px; 
+    }
+    .footer-menu ul li a {
+        font-size: 16px; 
+        padding-right: 20px;
+    }
+    img.sm-img {
+        display: none;
+    }
+    .hero-wrepper h1 { 
+        font-size: 72px; 
+        margin-top: 100px;
+    }
+    .hero-area.hero-styleTwo {
+        margin-bottom: 50px;
+    }
+    .herowrepperSlider.owl-carousel.owl-loaded.owl-drag .owl-nav { 
+        right: 30px; 
+    }
+    .hero-area.hero-styleTwo.contacthero {
+        height: 1400px;
+    }
+    .contact-detailse {
+        padding-top: 60px;
+    }
+    .contact-detailse h5 {
+        color: #1f1f1f;
+    } 
+    .contact-detailse p {
+        color: #1f1f1f;
+    } 
+    .contact-detailse h4 {color: #1f1f1f;}
+    
+    .contact-detailse a {
+        color: #1f1f1f;
+    }
+    .row.contact-row h1.big-title { 
+        font-size: 72px; 
+    }
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .dnoneINxs{
+        display:block !important
+      }
+    .sidBar {
+    display: block !important;
+    margin-right: -280px;
+    transition: .3s;
+}   
+    .noneINmd{
+        display: none !important;
+    }   
+    .major-wrepper {
+        padding-left: 0;
+        padding-top: 50px;
+    }
+    .feture-box { 
+        margin-top: 30px;
+    }
+    .section-title {
+        padding-left: 15px;
+        margin-right: 15px;
+    }
+    .contact-img img {
+        max-width: 90%;
+        position: unset;
+    }
+    .contact-img {
+        margin-top: 50px;
+        text-align: center;
+        justify-content: center;
+    }
+    .footer-area {
+        position: relative;
+        padding-top: 0;
+        overflow: hidden;
+        background: #744bf7;
+    }
+    .footer-area img.footer-bac { 
+        display: none;
+    }
+    .header:after {
+        display: none;
+    }
+    .header .header-top .top-text a { 
+        font-size: 16px; 
+        margin-left: 30px;
+    }
+    .dnoneINxs a.bar-icon { 
+        margin-top: 4px; 
+    }
+    img.bac-img {
+        display: none;
+    }
+    .hero-area {
+        background: #744bf7;
+        background-image: url(../img/hero-bac.png);
+        background-size: 1970px 1200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 670px;
+    }
+    .banner-right .banner-box.right-box img {
+        height: 300px;
+    }
+    .banner-box.right-box h4 {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    .footer-wrepper .footer-wiget a.footer-logo {
+        position: relative;
+        top: 0;
+        text-align: center;
+    }
+    .footer-wiget.middle-wiget {
+        padding-left: 0;
+        padding-bottom: 0;
+        border: none;
+        margin: 50px 0;
+    }
+    .footer-wiget.lasr-wiget {
+        padding-left: 0;
+    }
+    .footer-menu ul li a {
+        font-size: 15px;
+        font-weight: 700;
+        color: #fff;
+        padding-right: 16px;
+        display: inline-block;
+        line-height: 36px;
+    }
+    .hero-wrepper h1 {
+        font-weight: 900; 
+        font-size: 46px;
+    }
+    .hero-wrepper h4 {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 30px;
+        letter-spacing: 2px;
+        margin: 0;
+    }
+    .hero-wrepper p {
+        color: #fff;
+        font-size: 16px;
+        line-height: 20px;
+        padding-bottom: 30px;
+    }
+    .theme-btn {
+        background: #00be9a;
+        color: #fff;
+        font-weight: 900;
+        padding: 5px 15px;
+        border-radius: 10px;
+        font-size: 15px;
+    }
+    a.slide-btn { 
+        width: 60px;
+        height: 60px; 
+        bottom: 12%;
+        left: 40%; 
+    }
+    a.slide-btn span {
+        display: block;
+        border-top: 20px solid #00be9a;
+        border-right: 20px solid white;
+        position: absolute;
+        top: 45%;
+        right: 20%;
+        box-sizing: border-box;
+        transform: translate(-50%, -50%) rotate(45deg);
+    }
+    .major-wrepper h4 {
+        font-size: 23px; 
+        line-height: 32px;
+        padding-bottom: 15px;
+    }
+    body { 
+        font-size: 14px; 
+    }
+    .major-wrepper p {
+        word-spacing: 2px;
+    }
+    .section-title h3 {
+        font-size: 26px; 
+    }
+    .feture-box h1 {
+        width: 80px;
+        height: 80px; 
+        line-height: 75px; 
+    }
+    .feture-box h1 img {
+        width: 50%;
+    }
+    .banner-box h4 { 
+        font-size: 20px; 
+        width: 100%;
+    }
+    .banner-box img { 
+        height: 230px; 
+    }
+    .contact-area .contact-form h3 {
+        font-size: 26px; 
+    }
+    label {
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 900;
+        color: #000;
+        margin-top: 20px;
+    }
+    .contact-form input {
+        width: 100%;
+        padding: 10px;
+        padding-left: 15px;
+        background: none;
+        border: none;
+        box-shadow: 0px 0px 19px -11px #bfbfbf;
+        border-radius: 6px;
+        margin-top: 5px;
+    }
+    .contact-form ::placeholder {
+        font-size: 14px;
+    }
+    .contact-form textarea#message {
+        outline: none;
+        width: 100%;
+        padding: 20px;
+        color: #867975;
+        height: 110px;
+        margin-bottom: 30px;
+        border: none;
+        box-shadow: 0px 0px 19px -11px #bfbfbf;
+    }
+    .contact-area {
+        padding: 50px 0;
+        overflow: hidden;
+    }
+    img.sm-img {
+        display: none;
+    }
+    .hero-wrepper.apps span {
+        display: inline;
+    }
+    .hero-wrepper.apps { 
+        top: 50px;
+    }
+    h1.big-title {
+        font-size: 32px;
+    }
+    h1.big-title:after { 
+        width: 140px; 
+    }
+    .hero-wrepper h3 {
+        font-size: 25px;
+        margin-bottom: 30px;
+        color: #fff;
+    }
+    .owl-carousel.owl-loaded.owl-drag .hero-wrepper.apps  h1.big-title {
+        margin-top: 50px !important;
+    }
+    .hero-wrepper.apps {
+        top: 50px;
+        padding-bottom: 50px;
+    }
+.partner-img a {
+    display: inline-block;
+    width: 49%;
+}
+.hero-area.hero-styleTwo.web {
+    height: 780px;
+}
+.hero-area.hero-styleTwo.web .hero-wrepper.apps  { 
+    padding-bottom: 50px !important;
+}
+.hero-area.hero-styleTwo.marketing {
+    height: 600px;
+}
+.hero-area.hero-styleTwo.marketing .hero-wrepper.apps {
+    padding-top: 100px;
+}
+.footer-wrepper .footer-wiget a.footer-logo img {
+    width: 120px;
+}
+.sidBar .sideBar-menu nav ul li button {
+    background: #744bf7;
+    border: 1px solid #744bf7;
+    position: relative;
+    top: 4px;
+    padding: 1px 11px;
+    font-size: 19px;
+    border-radius: 2px;
+}
+.footer-wrepper .footer-wiget p {
+    font-size: 16px; 
+}
+.hero-area.hero-styleTwo.contacthero {
+    height: 1250px;
+}
+.hero-area.hero-styleTwo.contacthero { 
+    background-size: 2400px 2500px; 
+}
+.contact-detailse {
+    padding-top: 60px;
+}
+.contact-detailse h5 {
+    color: #fff;
+} 
+.contact-detailse p {
+    color: #fff;
+} 
+.contact-detailse h4 {color: #fff;}
+
+.contact-detailse a {
+    color: #fff;
+}
+.row.contact-row h1.big-title { 
+    font-size: 46px; 
+}
+.contact-hero form textarea#Mensaje {
+    height: 130px;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+.row.contact-row {
+    position: relative;
+    top: 70px;
+}
+.contact-hero form input { 
+    padding: 10px; 
+}
+.contact-hero form ::placeholder {
+    font-size: 16px;
+}
+.contact-hero form a.theme-btn { 
+    padding: 8px 30px;
+}
+
+
+
+
+
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.hero-wrepper h1 { 
+    font-size: 67px;
+}
+.hero-wrepper h4 { 
+    font-size: 20px; 
+    line-height: 30px;
+    letter-spacing: 2px; 
+}
+.hero-wrepper p { 
+    font-size: 16px;
+    line-height: 22px;
+    padding-bottom: 30px;
+}
+.theme-btn { 
+    padding: 10px 20px; 
+}
+a.slide-btn { 
+    width: 80px;
+    height: 80px; 
+    left: 40%;
+}
+a.slide-btn span { 
+    border-top: 30px solid #00be9a;
+    border-right: 30px solid white; 
+    right: 15%; 
+}
+.major-wrepper h4 {
+    font-size: 32px; 
+}
+body{
+    font-size: 18px;
+}
+.section-title h3 {
+    font-size: 28px; 
+}
+.contact-area .contact-form h3 {
+    font-size: 32px; 
+}
+label { 
+    font-size: 18px; 
+}
+.contact-form input { 
+    padding: 15px; 
+    border-radius: 10px; 
+}
+
+.hero-area { 
+    height: 790px;
+}
+
+.section-title h3 {
+    font-size: 36px; 
+}
+
+.section-title {
+    padding-left: 30px;
+    margin-right: 30px;
+} 
+.dnoneINxs a.bar-icon { 
+    margin-top: 10px; 
+}
+.hero-wrepper h1 {
+    font-size: 48px;
+}
+.hero-wrepper h3 {
+    font-size: 32px; 
+}
+.hero-wrepper.apps span {
+    display: inline;
+}
+.hero-wrepper.apps { 
+    top: 30px;
+}
+.owl-carousel.owl-loaded.owl-drag .hero-wrepper.apps {
+    padding-bottom: 50px !important;
+}
+.hero-area.hero-styleTwo.marketing {
+    height: 600px;
+}
+.hero-area.hero-styleTwo.marketing .hero-wrepper.apps {
+    padding-top: 100px;
+}
+.theme-btn { 
+    padding: 10px 15px; 
+}
+.contact-hero form input {
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding-left: 15px;
+}
+.contact-hero form input {
+    padding: 10px;
+}
+.contact-hero form a.theme-btn { 
+    padding: 10px 36px;
+}
+.contact-detailse h5 {
+    color: #fff;
+} 
+.contact-detailse p {
+    color: #fff;
+} 
+.contact-detailse h4 {color: #fff;}
+
+.contact-detailse a {
+    color: #fff;
+}
+.row.contact-row h1.big-title { 
+    font-size: 72px; 
+}
+.hero-area.hero-styleTwo.contacthero {
+    height: 1479px;
+}
+
+
+
+
+
+
+
+
+
+}
